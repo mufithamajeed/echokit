@@ -72,7 +72,7 @@ st.markdown(
     <div style="text-align:center; font-size: 0.9em;">
         🔧 Built with 🤍 by <strong>Mufitha Majeed</strong> | 
         Project: <code>EchoKit</code> | 
-        <a href="https://github.com/yourusername/echokit" target="_blank">GitHub</a>
+        <a href="https://github.com/mufithamajeed/echokit" target="_blank">GitHub</a>
     </div>
     """,
     unsafe_allow_html=True
