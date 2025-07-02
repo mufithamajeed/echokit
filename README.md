@@ -76,16 +76,16 @@ Then open `http://localhost:xxxx` in your browser.
 
 ---
 
-## 🌐 Try It Online (Optional)
+## 🌐 Try It Online
 
 > Coming soon: [Run on Hugging Face Spaces](https://huggingface.co/spaces/mufithamajeed/echokit)
 
 ---
 
-## 🖼️ Screenshots (Add later)
+## 🖼️ Screenshots
 
 <!--
-![EchoKit Screenshot](app screenshot 2/demo1.png)
+![EchoKit Screenshot](app screenshot 2.png)
 -->
 
 ---
