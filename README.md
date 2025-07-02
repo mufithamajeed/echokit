@@ -84,6 +84,7 @@ Then open `http://localhost:xxxx` in your browser.
 
 ## 🖼️ Screenshots
 
+![App Screenshot](App_screenshot_1.png)
 ![App Screenshot](App_screenshot_2.png)
 
 ---
