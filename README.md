@@ -84,9 +84,7 @@ Then open `http://localhost:xxxx` in your browser.
 
 ## 🖼️ Screenshots
 
-<!--
-![EchoKit Screenshot](App screenshot 2.png)
--->
+![App Screenshot](App_screenshot_2.png)
 
 ---
 
