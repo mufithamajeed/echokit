@@ -12,12 +12,12 @@
 
 ## 🔍 Features
 
-* 🎙️ Whisper-based transcription (fully offline using `openai-whisper`)
-* 🧠 Summarization using `facebook/bart-large-cnn`
-* 📜 Transcript + 🔎 Summary display
-* 📥 Download buttons for saving `.txt` files
-* 🎨 Clean Streamlit layout with colored sections
-* ⚡ No API keys or billing needed – 100% open source
+*  Whisper-based transcription (fully offline using `openai-whisper`)
+*  Summarization using `facebook/bart-large-cnn`
+*  Transcript + 🔎 Summary display
+*  Download buttons for saving `.txt` files
+*  Clean Streamlit layout with colored sections
+*  No API keys or billing needed – 100% open source
 
 ---
 
