@@ -78,7 +78,7 @@ Then open `http://localhost:xxxx` in your browser.
 
 ## 🌐 Try It Online
 
-> [Run on Hugging Face Spaces](https://huggingface.co/spaces/mufithamajeed/echokit)
+[Run on Hugging Face Spaces](https://huggingface.co/spaces/mufithamajeed/echokit)
 
 ---
 
